@@ -33,3 +33,18 @@ Ivan Scherbak <dev@funivan.com>
 ## Links
 [Kupfer plugin api](http://engla.github.io/kupfer/Documentation/PluginAPI.html)
 
+
+#### Demo file /tmp/my-urls.ini
+
+![demo file](demo-images/demo-file.png)
+
+#### Plugin configuration
+![plugin configuration](demo-images/plugin-configuration.png)
+ 
+#### How to open link
+![how to open link](demo-images/kupfer-link-open.png)
+
+#### Select link
+![select link](demo-images/kupfer-link-select.png)
+
+
